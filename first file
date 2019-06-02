@@ -3,4 +3,8 @@ Hello this is the first file to have the git cloned.
 thank you
 Purushotham S
 
+<<<<<<< HEAD
 this is to edit master branch
+=======
+this is to check puru branck
+>>>>>>> 57cda3e6ca5ea6300da699e48ddf0ca2e0bc3e93
